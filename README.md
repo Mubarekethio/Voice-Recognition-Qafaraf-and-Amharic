@@ -1,4 +1,4 @@
-# Voice-Recognition-Qafaraf-and-Amharic-
+# Qafaraf and Amharic Speech Command Recognition-Qafaraf (QASCR)
 Qafar-af and Amharic voice Command Recognition project to control the movement of wheelchair !!!
 
 # Qafar-af Speech Command Recognition: Recognizing keywords
