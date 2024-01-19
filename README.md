@@ -1,5 +1,3 @@
-Qafar-af and Amharic voice Command Recognition project to control the movement of wheelchair !!!
-
 # Qafar-af Speech Command Recognition: Recognizing keywords
 
 This repository is demonstrates audio preprocessing and building a machine learning model for Qafaraf and Amharic speech command recognition. The audio files in the WAV format is organized in seven different folders for each command and each WAV audio file are 1 second long with 16khz sampling rate the following five voice command.
