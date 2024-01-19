@@ -21,16 +21,16 @@ This repository is demonstrates audio preprocessing and building a machine learn
   </td>
   <td>
     <a target="_blank" href="https://www.linkedin.com/in/mubarek-kebede-582012148">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30" />
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg " width="30" height="30" />
     Linkdin</a>
   </td>
   <td>
     <a target="_blank" href="https://x.com/mubarekethio">
-    <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="30" height="30"/>
+    <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png " width="30" height="30" />
     Twitter</a>
   </td>
   
   <td>
-    <a href="https://drive.google.com/drive/folders/1ztXhMlpbRliUlhhkVw--uLETXYj3yQSN"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />Download notebook</a>
+    <a href="https://drive.google.com/drive/folders/1ztXhMlpbRliUlhhkVw--uLETXYj3yQSN"><img src="https://www.tensorflow.org/images/download_logo_32px.png " />Download notebook</a>
   </td>
 </table>
